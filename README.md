@@ -1,7 +1,7 @@
 <h1 align="center">📚 Historias-Curtas-WebSite</h1>
 
 <p align="center">
-  <img src="docs/Banner.png" alt="Banner" width="600">
+  <img src="assets/media/Banner.png" alt="Banner" width="600">
 </p>
 
 <p align="center">
@@ -25,12 +25,12 @@ The user can navigate through a menu to choose a story and return to the main me
 ```
 historias_curtas/
 │
-├─ docs/                         → Image assets used in the project
+├─ assets/media/                         → Image assets used in the project
 │
 ├─ src/
-│ ├─ Historia_curta-menu.html      → Main menu page
-│ ├─ Historia_curta-historia_1.html → First short story page
-│ └─ Historia_curta-historia_2.html → Second short story page
+│ ├─ Historia_curta-menu.html            → Main menu page
+│ ├─ Historia_curta-historia_1.html      → First short story page
+│ └─ Historia_curta-historia_2.html      → Second short story page
 │
 └─ README.md
 ```
